@@ -1,0 +1,12 @@
+PODS:
+  - libev-iOS (4.22.0)
+
+DEPENDENCIES:
+  - libev-iOS
+
+SPEC CHECKSUMS:
+  libev-iOS: de664bc442ff74afdc0f50d14f682107d59cef6f
+
+PODFILE CHECKSUM: 787a08b4d9f8f52251f1cfe4bb1f49372df7c0b8
+
+COCOAPODS: 1.0.1
